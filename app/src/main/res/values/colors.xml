@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFC0C0C0</color>
+    <color name="dark_gray">#FF4A4A4A</color>
+    <color name="light_gray">#FFE0E0E0</color>
+
+    <color name="red">#FFFF0000</color>
+    <color name="deep_red">#FFD50000</color>
+    <color name="light_red">#FFFF6B6B</color>
+
+    <color name="green">#FF00FF00</color>
+    <color name="dark_green">#FF006400</color>
+    <color name="light_green">#FF8BC34A</color>
+
+    <color name="blue">#FF0000FF</color>
+    <color name="dark_blue">#FF0D47A1</color>
+    <color name="light_blue">#FF64B5F6</color>
+
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="dark_yellow">#FFFBC02D</color>
+    <color name="light_yellow">#FFFFF59D</color>
+
+    <color name="orange">#FFFF7F50</color>
+    <color name="dark_orange">#FFFF5722</color>
+    <color name="light_orange">#FFFFAB91</color>
+
+    <color name="purple">#FF800080</color>
+    <color name="dark_purple">#FF4A148C</color>
+    <color name="light_purple">#FFCE93D8</color>
+
+    <color name="pink">#FFFFC0CB</color>
+    <color name="dark_pink">#FFD81B60</color>
+    <color name="light_pink">#FFF8BBD0</color>
+
+    <color name="brown">#FF964B00</color>
+    <color name="dark_brown">#FF5D4037</color>
+    <color name="light_brown">#FF8D6E63</color>
+
+    <color name="teal">#FF008080</color>
+    <color name="dark_teal">#FF004D40</color>
+    <color name="light_teal">#FF80CBC4</color>
+
+    <color name="cyan">#FF00FFFF</color>
+    <color name="dark_cyan">#FF008B8B</color>
+    <color name="light_cyan">#FFB2EBF2</color>
+
+    <color name="lime">#FF00FF00</color>
+    <color name="light_lime">#FFCDDC39</color>
+    <color name="dark_lime">#FFAFB42B</color>
+
+    <color name="indigo">#FF4B0082</color>
+    <color name="dark_indigo">#FF1A237E</color>
+    <color name="light_indigo">#FF9FA8DA</color>
+
+    <color name="violet">#FFEE82EE</color>
+    <color name="dark_violet">#FF8E24AA</color>
+    <color name="light_violet">#FFE1BEE7</color>
+
+    <color name="maroon">#FF800000</color>
+    <color name="dark_maroon">#FF4E0000</color>
+
+    <color name="olive">#FF808000</color>
+    <color name="dark_olive">#FF556B2F</color>
+    <color name="light_olive">#FFC5E1A5</color>
+
+    <!-- Material Design Primary Colors -->
+    <color name="material_blue">#FF2196F3</color>
+    <color name="material_green">#FF4CAF50</color>
+    <color name="material_red">#FFF44336</color>
+    <color name="material_pink">#FFE91E63</color>
+    <color name="material_purple">#FF9C27B0</color>
+    <color name="material_indigo">#FF3F51B5</color>
+    <color name="material_blue_gray">#FF607D8B</color>
+
+    <!-- UI Accent / Theme Colors -->
+    <color name="accent_gold">#FFFFD700</color>
+    <color name="accent_silver">#FFC0C0C0</color>
+    <color name="accent_bronze">#FFCD7F32</color>
+
+    <color name="sky_blue">#FF87CEEB</color>
+    <color name="navy_blue">#FF000080</color>
+    <color name="sea_green">#FF2E8B57</color>
+    <color name="forest_green">#FF228B22</color>
+
+    <!-- Pastel Colors -->
+    <color name="pastel_blue">#FFAEC6CF</color>
+    <color name="pastel_green">#FF77DD77</color>
+    <color name="pastel_yellow">#FFFDFD96</color>
+    <color name="pastel_pink">#FFF49AC2</color>
+    <color name="pastel_purple">#FFB39EB5</color>
+
+    <!-- Gradient Friendly Colors -->
+    <color name="sunset_orange">#FFFF8C42</color>
+    <color name="sunset_pink">#FFFF6E7F</color>
+    <color name="sunset_purple">#FF9B5DE</color>
+    <color name="ocean_blue">#FF0077B6</color>
+    <color name="ocean_green">#FF00B4D8</color>
+    <color name="ocean_teal">#FF48CAE4</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_bg">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_text">#FFE0E0E0</color>
+    <color name="dark_card">#FF2C2C2C</color>
+
+    <!-- Light Theme Colors -->
+    <color name="light_bg">#FFFFFFFF</color>
+    <color name="light_surface">#FFF8F8F8</color>
+    <color name="light_text">#FF000000</color>
+    <color name="light_card">#FFFFFFFF</color>
+</resources>

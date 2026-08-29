@@ -1,0 +1,65 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background Image -->
+    <ImageView
+        android:src="@drawable/skyimage"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Transparent Black Overlay -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000" />
+
+    <!-- Your Login UI -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/email"
+            android:hint="@string/email"
+            android:textColor="@color/white"
+            android:textColorHint="#CCFFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white" />
+
+        <EditText
+            android:id="@+id/password"
+            android:hint="@string/password"
+            android:textColor="@color/white"
+            android:textColorHint="#CCFFFFFF"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white" />
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:text="@string/login"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="60dp" />
+
+        <TextView
+            android:id="@+id/goSignup"
+            android:text="@string/create_account"
+            android:textAlignment="center"
+            android:padding="15sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:textColor="@color/yellow"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</FrameLayout>

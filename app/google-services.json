@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610541759690",
+    "project_id": "weather-app-b5a8f",
+    "storage_bucket": "weather-app-b5a8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610541759690:android:ee099e7fe0d78cf7111833",
+        "android_client_info": {
+          "package_name": "com.example.weatherapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHe2aozSu0rjr_tY88pdK3bTSCKrEjL90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610541759690:android:a1f1cbb5b8725c40111833",
+        "android_client_info": {
+          "package_name": "com.technexus.weatherapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHe2aozSu0rjr_tY88pdK3bTSCKrEjL90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
