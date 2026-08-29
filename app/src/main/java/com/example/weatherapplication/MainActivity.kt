@@ -10,7 +10,7 @@ import retrofit2.Response
 
 class MainActivity : AppCompatActivity() {
 
-    private val apiKey = "879c719c673c15c2846471e68b893184"
+    private val apiKey = "API_KEY"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
